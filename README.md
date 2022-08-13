@@ -21,7 +21,6 @@
 - Change the current working directory to where you want the cloned directory.
 - Type:  $ git clone https://github.com/Mitsananikone/Pacmen.
 - Press 'Enter' to create your local clone.
-- Run `npm install` to install all dependencies.
 - Run index.html.
 
 ## Usage
