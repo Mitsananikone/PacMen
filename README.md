@@ -12,6 +12,10 @@
 * [Contact](#contact)
 * [License](#license)
 
+## Screenshot
+![My Image](images/PacMenScreenshot.png)
+
+
 
 ## Setup
 - On Github, navigate to the main page of this repository.
