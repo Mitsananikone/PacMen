@@ -52,7 +52,7 @@ To do:
 
 
 ## Contact
-Created by [@mitsananikone(https://mitsananikone.github.io/) - feel free to contact me!
+Created by [@mitsananikone(https://mitsananikone.github.io/)] - feel free to contact me!
 
 
 ## License
