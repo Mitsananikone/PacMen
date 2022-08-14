@@ -5,6 +5,7 @@
 
 
 ## Table of Contents
+* [Screenshot](#screenshot)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Room for Improvement](#room-for-improvement)
