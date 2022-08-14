@@ -53,7 +53,7 @@ To do:
 
 
 ## Acknowledgements
-- This project was inspired by Week 3 of the M.I.T Fullstack Developer Bootcamp
+This project was inspired by Week 3 of the M.I.T Fullstack Developer Bootcamp
 
 
 ## Contact
